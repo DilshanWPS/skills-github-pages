@@ -1,0 +1,15 @@
+title: Sandun's Portfolio
+description: Learning web development and building real-world projects 🚀
+author: Sandun Dilshan
+
+theme: minima
+
+minima:
+  skin: dark
+
+header_pages:
+  - index.md
+
+github_username: your-username
+
+markdown: kramdown
